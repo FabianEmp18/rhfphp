@@ -1,10 +1,5 @@
 # Final-PHP-CRUD-Tecno3f-2024
 
-## Sistema de Gestión de Productos, Usuarios y Contactos.
-
-
-# Final-PHP-CRUD-Tecno3f-2024
-
 # Sistema de Gestión de Productos, Usuarios y Contactos
 
 Este proyecto es un sistema web de gestión de productos, usuarios y contactos. Permite gestionar los productos de una tienda, visualizar los usuarios registrados y los mensajes recibidos a través de un formulario de contacto.
@@ -14,6 +9,10 @@ Este proyecto es un sistema web de gestión de productos, usuarios y contactos. 
 - **PHP 7.4 o superior**
 - **MySQL 5.7 o superior**
 - **XAMPP o servidor web compatible**
+
+**Datos para ingrear - Login:**
+   - Usuario: admin 
+   - Contraseña: prueba
 
 ## Instalación
 
@@ -30,7 +29,6 @@ Este proyecto es un sistema web de gestión de productos, usuarios y contactos. 
    - Asegúrate de que el archivo `Database.php` contenga los detalles correctos para conectar a tu base de datos. 
    - La configuración predeterminada es:
 
-     ```
 <?php
 class Database {
      private $host = "localhost"; // Servidor de la base de datos
@@ -48,9 +46,9 @@ class Database {
 
    - Si tu configuración es diferente, actualiza los valores según corresponda.
 
-
-
-
+### 4. **Datos para ingrear - Login:**
+   - Usuario: admin 
+   - Contraseña: prueba
 
 ## Funcionalidades
 
